@@ -15,7 +15,7 @@
 
 -How to run bot for the first time ?
 
--git clone https://github.com/CarTooonn/alphat-third
+-git clone https://github.com/satriapasa/SatriaJS
 
 -cd alphat-third && npm install
 
